@@ -1,0 +1,18 @@
+[
+{
+    "Name": "Spaggetti",
+    "Ingredients": ["pasta", "tomatos", "mince beef", "buttermilk", "olive oil", "onion", "garlic", "fresh oregano","salt", "pepper", "parmesan"],
+    "Instructions": ["boil water", "cook pasta", "chop onion and garlic", "olive oil", "fry", "add beef", "stir", 
+    "add buttermilk", "chopped tomatos", "salt", "pepper", "fresh oregano", "when ready, add parmesan on the top"]
+   
+}
+
+{
+    "Name": "Carbonara",
+    "Ingredients" : ["pasta", "bacon", "olive oil", "garlic", "eggs", "parmesan", "mascarpone"],
+    "Instructions" : ["boil water", "cook pasta", "chop garlic", "add olive oil", "stir and fry", "add becon", 
+    "mix eggs, mascarpone, parmesan, water from boiled pasta and add to becon", "add pasta and stir"]
+}
+
+
+]
