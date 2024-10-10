@@ -22,9 +22,10 @@ def add_new_secret():
 
 
 
-"""def search_secret_recipe():
-    
+def search_secret_recipe():
+    """
     Searching for a recipe
+    """
 
     
     name = input("Enter the recipe name to search: ").strip()
@@ -36,7 +37,7 @@ def add_new_secret():
         print(f"'{name}' not found.")
 
 
-def display_all_recipes():
+"""def display_all_recipes():
     
     Displays all recipes stored in recipe book
     
