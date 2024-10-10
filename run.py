@@ -52,9 +52,10 @@ def display_all_recipes():
 
 
 
-"""def main():
-
+def main():
+    """
     Main function to display options and handle user choices
+    """
 
     while True:
         print("\nOptions:")
