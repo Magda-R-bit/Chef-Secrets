@@ -37,11 +37,11 @@ def search_secret_recipe():
         print(f"'{name}' not found.")
 
 
-"""def display_all_recipes():
-    
+def display_all_recipes():
+    """
     Displays all recipes stored in recipe book
-    
-    
+    """
+
     if recipes:
         print("\nAvailable recipes:")
         for recipe_name in recipes:
@@ -52,7 +52,7 @@ def search_secret_recipe():
 
 
 
-def main():
+"""def main():
 
     Main function to display options and handle user choices
 
